@@ -61,3 +61,14 @@ cities = ["DUBLIN", "Pune"]
 
 raw = string.split()
 print(set(raw).intersection(set(cities)))
+
+
+import pickle
+def writePickle(var, filename):
+    with open(filename, 'wb') as f:  # Python 3: open(..., 'wb')
+        pickle.dump(var, f)
+        return
+ 
+def readPickle(filename):
+    with open(filename, 'rb') as f:  # Python 3: open(..., 'rb')
+        return pickle.load(f)
