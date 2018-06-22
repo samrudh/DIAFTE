@@ -1,0 +1,14 @@
+{1:F01BEASCNSHJIN00000000000}{2:I103DBSSGB2LXXXXN}{4:
+:20:78N6QK1B3Q
+:23B:CRED
+:32A:180622USD6706,
+:50F:/MFR3SGS0OOEM2J4
+1/Yarmouk Martyrs Brigade
+2/42 Protaras Road, Protaras 5296
+3/CY/Cyprus
+:59:/82BKH1F6PGCLMN8
+Mohammad-Kazem Bahrami
+Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+Cyprus
+:71A:SHA
+-}

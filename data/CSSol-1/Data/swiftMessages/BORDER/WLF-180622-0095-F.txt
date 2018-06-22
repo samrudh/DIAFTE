@@ -1,0 +1,14 @@
+{1:F01RAKASDKHXXX00000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:AJBEQBP4NP
+:23B:CRED
+:32A:180622EUR7925,
+:50K:/UQSTBFLDONVMS34
+Wu Jau Shieh
+Princes Way, Wimbledon, London SW19 6QT
+United Kingdom
+:59F:/FABV3R2JAR2J5Q3
+1/Wong Mee Leong
+2/King Salman Bin Abdulaziz Al Saud St - Dubai
+3/UK/United Kingdom
+:71A:SHA
+-}

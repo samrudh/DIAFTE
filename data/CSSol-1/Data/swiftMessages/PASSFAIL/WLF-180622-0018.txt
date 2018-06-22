@@ -1,0 +1,14 @@
+{1:F01AGIGUS3WXXX00000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:UJACQ1F0UE
+:23B:CRED
+:32A:180622EUR8334,
+:50F:/4M6AE8NLN5RCJDN
+1/Paya Partov Co.
+2/West Village, 170 7th Ave S
+3/NY/NEW YORK
+:59:/Q755A50BQEH98JL
+Behsaz Kashane Tehran Construction Co.
+S.R. Pawar Nagar, Vasant Vihar, Thane West
+INDIA
+:71A:SHA
+-}

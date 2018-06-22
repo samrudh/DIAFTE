@@ -1,0 +1,14 @@
+{1:F01BBVASGSGXXX00000000000}{2:I103DBSSSGSGXXXXN}{4:
+:20:GTQOBJCVIM
+:23B:CRED
+:32A:180622USD4161,
+:50F:/O7MLD9QMKO66CSV
+1/Yazd Metallurgy Industries
+2/Myru Ave, 28, Heniches'k, Khersons'ka oblast
+3/UA/Ukraine
+:59F:/ID3CEHRG10QCFR4
+1/Mohammad Ziad Ghritawi
+2/Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+3/UA/Ukraine
+:71A:SHA
+-}

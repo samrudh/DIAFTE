@@ -1,0 +1,14 @@
+{1:F01AMCIAU21COL00000000000}{2:I103DBSSTWTPIBDXN}{4:
+:20:MD0E0M2DIR
+:23B:CRED
+:32A:180622MYR7741,
+:50F:/5L2CRQFC5HPAHFV
+1/EP-GOX
+2/Department 98, 44-46 Morningside Road, Edinburgh
+3/UK/United Kingdom
+:59F:/TIPOJ6Q8MNDOLKM
+1/Peter Gadet
+2/Princes Way, Wimbledon, London SW19 6QT
+3/UK/United Kingdom
+:71A:SHA
+-}

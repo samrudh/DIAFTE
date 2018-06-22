@@ -1,0 +1,14 @@
+{1:F01BOTKJPJTOSA00000000000}{2:I103DBSSSGSGIBDXN}{4:
+:20:6H0S7INI53
+:23B:CRED
+:32A:180622EUR3928,
+:50F:/9A2UA1NOLJKH02M
+1/Mohammad Shafi Armar
+2/Puppal Guda, Puppalguda, Hyderabad
+3/IN/INDIA
+:59F:/VJIC9VQK6DLNSPJ
+1/National Defense Commission
+2/Puppal Guda, Puppalguda, Hyderabad
+3/IN/INDIA
+:71A:SHA
+-}

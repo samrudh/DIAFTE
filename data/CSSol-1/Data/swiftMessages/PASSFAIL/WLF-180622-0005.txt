@@ -1,0 +1,14 @@
+{1:F01BKKBMYKLXXX00000000000}{2:I103DBSSCNSHBJGXN}{4:
+:20:LD0MEAGGF1
+:23B:CRED
+:32A:180622USD6131,
+:50K:/844MBNK7NSUGHGL
+Behsaz Kashane Tehran Construction Co.
+Tokyo Central Post Office, 1-5-3 Yaesu, Chuo-ku, Tokyo
+JAPAN
+:59F:/9S98NORBQ768V5P
+1/Reza Amidi
+2/IOI Resort City, Ioi Resort
+3/MY/MALAYSIA
+:71A:SHA
+-}

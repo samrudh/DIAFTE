@@ -1,0 +1,14 @@
+{1:F01MARCJPJ1NGY00000000000}{2:I103DBSSSGSGPCGXN}{4:
+:20:2G2FE50QHM
+:23B:CRED
+:32A:180622CNY8342,
+:50F:/VRPEC38545FKE67
+1/EP-GOX
+2/Lobby Level, Four Points by Sheraton Downtown Dubai, Mankhool Road
+3/AE/United Arab Emirates
+:59:/CJQ0JESN434DDJU
+Peter Gadet
+??. ????????, 2, Simferopol'
+United Arab Emirates
+:71A:SHA
+-}

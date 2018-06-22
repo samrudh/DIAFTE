@@ -1,0 +1,14 @@
+{1:F01AXISINBB12600000000000}{2:I103DBSSSGSGXXXXN}{4:
+:20:COAT4R8IKF
+:23B:CRED
+:32A:180622CNY7788,
+:50F:/4MOJRI7O2LVQRER
+1/Rae Ryong Gang
+2/Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+3/TR/Turkey
+:59F:/59CT06PMERPA3AC
+1/EP-GOM
+2/100 Turf Club Road
+3/TR/Turkey
+:71A:SHA
+-}

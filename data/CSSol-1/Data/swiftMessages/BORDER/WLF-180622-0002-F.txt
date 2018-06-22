@@ -1,0 +1,14 @@
+{1:F01CMSYSYDASW100000000000}{2:I103DBSSSGSGPCGXN}{4:
+:20:Q79C978NKF
+:23B:CRED
+:32A:180622EUR1174,
+:50F:/9475BN0MH1P8CN7
+1/Amroggang Development Bank
+2/42 Protaras Road, Protaras 5296
+3/CY/Cyprus
+:59:/UNTVALT58NABQJG
+Reza Taghipour
+JBR The Beach, The Piazza - Dubai
+Cyprus
+:71A:SHA
+-}

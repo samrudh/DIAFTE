@@ -1,0 +1,14 @@
+{1:F01BTVAAT22BLU00000000000}{2:I103DBSSTWTPIBDXN}{4:
+:20:5J1BVE5CHR
+:23B:CRED
+:32A:180622EUR7966,
+:50F:/649I0QBQIUJU3RV
+1/Oumar Younous
+2/Wonsan, Kangwon
+3/KP/North Korea
+:59F:/VBP0GBHNE6QPTII
+1/Pejman Industrial Services Corpora
+1/tion
+3/KP/North Korea
+:71A:SHA
+-}

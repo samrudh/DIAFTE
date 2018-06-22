@@ -1,0 +1,14 @@
+{1:F01GBTFSYDAXXX00000000000}{2:I103DBSSSGSGIBDXN}{4:
+:20:848S5VCLJJ
+:23B:CRED
+:32A:180622AUD5766,
+:50F:/C1PB0N177O8APFC
+1/Abdulkarim Group
+2/Sarina Hotel, P-2, Keren
+3/ET/Ethiopia
+:59F:/LJT706QU4KNCT1P
+1/Gharzolhasaneh Resalat Bank
+2/Houtzot HaMifratz, Haifa
+3/ET/Ethiopia
+:71A:SHA
+-}

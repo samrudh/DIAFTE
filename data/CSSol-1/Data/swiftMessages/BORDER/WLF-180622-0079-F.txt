@@ -1,0 +1,14 @@
+{1:F01ABNAAUE1XXX00000000000}{2:I103DBSSCNSHBJGXN}{4:
+:20:N0PRC41PEQ
+:23B:CRED
+:32A:180622INR0634,
+:50K:/S7SJ5J40QPS2RVF
+JOHN BREDENKAMPPi
+Lublin Airport, Króla Jana III Sobieskiego 1, 21-040 ?widnik
+Poland
+:59:/9HOSA9T5GIP327S
+Petropars Oilfield Services Company
+Brest Central, Brest
+Poland
+:71A:SHA
+-}

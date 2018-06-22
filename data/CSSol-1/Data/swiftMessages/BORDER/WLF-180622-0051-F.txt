@@ -1,0 +1,14 @@
+{1:F01CMSYSYDASW100000000000}{2:I103DBSSSGSGIBDXN}{4:
+:20:NIAUKB01AU
+:23B:CRED
+:32A:180622EUR9403,
+:50F:/9CH85EHMRUKCB3H
+1/Rifa'i Ahmad Taha Musa
+2/Le Méridien Dubai Hotel & Conference Centre,Near Sukhothai - Dubai
+3/AE/United Arab Emirates
+:59F:/6E06G8N8S372K1G
+1/NURJAMAN
+2/24 Zhongxing Rd, Changbai Chaoxianzuzizhixian, Baishan Shi, Jilin Sheng
+3/AE/United Arab Emirates
+:71A:SHA
+-}

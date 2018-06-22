@@ -1,0 +1,14 @@
+{1:F01BENDAU3BXXX00000000000}{2:I103DBSSTWTPIBDXN}{4:
+:20:0UKIEB9BTG
+:23B:CRED
+:32A:180622CNY6577,
+:50F:/EBM24RJ9T36F3D9
+1/Umar Hijazi
+2/42 Protaras Road, Protaras 5296
+3/CY/Cyprus
+:59:/J922QUNI6R4PG2B
+Sang Kuk So Cho
+Myru Ave, 28, Heniches'k, Khersons'ka oblast
+Cyprus
+:71A:SHA
+-}

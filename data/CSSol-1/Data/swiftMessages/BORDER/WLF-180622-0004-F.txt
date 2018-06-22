@@ -1,0 +1,14 @@
+{1:F01BKCHCNBJ49C00000000000}{2:I103DBSSSGSGXXXXN}{4:
+:20:7CM9NNA0F6
+:23B:CRED
+:32A:180622NZD5096,
+:50F:/C8J0T10SOT7J273
+1/Behsaz Faraz Iranian Group
+2/Rainbow St., Amman
+3/JO/Jordan
+:59F:/D92LI438ILJOIO0
+1/Reza Mozaffarinia
+2/S.R. Pawar Nagar, Vasant Vihar, Thane West
+3/JO/Jordan
+:71A:SHA
+-}

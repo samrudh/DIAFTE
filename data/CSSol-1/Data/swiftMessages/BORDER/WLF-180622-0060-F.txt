@@ -1,0 +1,14 @@
+{1:F01ASLLAU2CHBS00000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:RHKGN63R38
+:23B:CRED
+:32A:180622EUR0721,
+:50F:/P0O5SHAF7S1L46K
+1/OSMAN ADAM KHATIB
+2/Brest Central, Brest
+3/BL/Belarus
+:59F:/1K3KVS8T9AHB6A8
+1/Pelasko Kar Saipa
+2/Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+3/BL/Belarus
+:71A:SHA
+-}

@@ -1,0 +1,14 @@
+{1:F01BOJPJPJTMF100000000000}{2:I103DBSSSGSGPCGXN}{4:
+:20:6ATRRH6LLP
+:23B:CRED
+:32A:180622EUR3338,
+:50K:/QB6PH10KU6UNGCB
+Ahmad Ballulli
+42 Protaras Road, Protaras 5296
+Cyprus
+:59:/0SKCB7SJVKEI95R
+Haja Fakkurudeen Usman Ali
+Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+Cyprus
+:71A:SHA
+-}

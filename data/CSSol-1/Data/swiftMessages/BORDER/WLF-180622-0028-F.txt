@@ -1,0 +1,14 @@
+{1:F01CONWATWWRES00000000000}{2:I103DBSSSGSGIBDXN}{4:
+:20:GMABJ7G64S
+:23B:CRED
+:32A:180622MYR2972,
+:50F:/AKAHHJCC5M79VSJ
+1/Tosse Silooha
+2/Kilikiya, ???. ??????, 1?, Uzhhorod, Zakarpats'ka oblast
+3/UK/United Kingdom
+:59F:/1N6E3T57VG4QHV7
+1/Moneta Transfer and Exchange
+2/Wonsan, Kangwon
+3/UK/United Kingdom
+:71A:SHA
+-}

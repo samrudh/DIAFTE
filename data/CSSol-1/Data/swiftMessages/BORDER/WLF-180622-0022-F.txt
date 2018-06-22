@@ -1,0 +1,14 @@
+{1:F01ANZBAU2S87800000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:N3T0LUBKE2
+:23B:CRED
+:32A:180622USD0455,
+:50K:/45ITNRV2NDP7L3H
+Pelasko Kar Saipa
+80 Mount Pleasant Rd
+SINGAPORE
+:59:/6CVKT6DOMRC0IIQ
+East Star Company
+Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+SINGAPORE
+:71A:SHA
+-}

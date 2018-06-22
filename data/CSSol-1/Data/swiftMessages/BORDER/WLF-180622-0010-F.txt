@@ -1,0 +1,14 @@
+{1:F01CMSYSYDASW100000000000}{2:I103DBSSSGSGXXXXN}{4:
+:20:RI40M32F54
+:23B:CRED
+:32A:180622INR3033,
+:50F:/9ID2QU447SJRVG2
+1/Ebla Petroleum Company
+2/Hamhung, South Hamgyong
+3/KP/North Korea
+:59:/KL2923MEMJ08U4P
+Raw'a Al-Usta
+Houtzot HaMifratz, Haifa
+North Korea
+:71A:SHA
+-}

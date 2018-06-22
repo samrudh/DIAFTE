@@ -1,0 +1,14 @@
+{1:F01ADBNCNBJBKD00000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:QCJQU0BGS0
+:23B:CRED
+:32A:180622USD4489,
+:50F:/3IICMGQFL2P62SD
+1/EMMANUEL
+2/Bud'onnoho St, 7, Simferopol
+3/UA/Ukraine
+:59:/F4BT0HUHO3OR22S
+Khatem-Ol Anbiya Construction Organisation
+Brest Central, Brest
+Ukraine
+:71A:SHA
+-}

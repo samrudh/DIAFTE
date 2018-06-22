@@ -1,0 +1,14 @@
+{1:F01ABOCCNBJCUS00000000000}{2:I103DBSSSGSGXXXXN}{4:
+:20:4GMN76355C
+:23B:CRED
+:32A:180622USD4918,
+:50K:/FRD0BRHO6T1L0IB
+Iradj Mohammadi Kahvarin
+Mazandaran Province
+Iran
+:59:/LG1OL49J1Q4F559
+Multimat Ic Ve Dis Ticaret Pazarlama Limited Sirketi
+Mazandaran Province
+Iran
+:71A:SHA
+-}

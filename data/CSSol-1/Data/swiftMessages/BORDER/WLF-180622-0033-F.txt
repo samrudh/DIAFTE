@@ -1,0 +1,14 @@
+{1:F01BKCHCNBJ49C00000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:CONKHLOB1R
+:23B:CRED
+:32A:180622USD7176,
+:50F:/MO822400JP4BS8F
+1/Yarsanat
+2/Lobby Level, Four Points by Sheraton Downtown Dubai, Mankhool Road
+3/AE/United Arab Emirates
+:59F:/4RRP069R8JFSJV3
+1/Mohammad-Ali Zanjirei
+2/Sarina Hotel, P-2, Keren
+3/AE/United Arab Emirates
+:71A:SHA
+-}

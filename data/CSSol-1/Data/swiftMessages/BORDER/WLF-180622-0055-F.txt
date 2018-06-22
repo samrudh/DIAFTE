@@ -1,0 +1,14 @@
+{1:F01BNPAMYKAXXX00000000000}{2:I103DBSSCNSHBJGXN}{4:
+:20:B67E2CVH5T
+:23B:CRED
+:32A:180622USD1035,
+:50F:/90VODG6NVT58JCU
+1/PARS TARASH
+2/Kilikiya, ???. ??????, 1?, Uzhhorod, Zakarpats'ka oblast
+3/UK/United Kingdom
+:59F:/JSJ4DHTFHADVTDC
+1/YAZID SUFAAT
+2/Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+3/UK/United Kingdom
+:71A:SHA
+-}

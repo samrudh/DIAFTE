@@ -1,0 +1,14 @@
+{1:F01BBVAUS33XXX00000000000}{2:I103DBSSTWTPIBDXN}{4:
+:20:K15H485R6R
+:23B:CRED
+:32A:180622CNY8037,
+:50K:/996TQLG1UOJAD65
+Tourism Bank
+Unit 14, 3 Edgar Buildings, George Street
+United Kingdom
+:59F:/GSFA5R8FSPJLIOC
+1/Mohammed Al Ghabra
+2/No. 151, Lane 439, Section 4, Zhangshui Road
+3/TW/TAIWAN
+:71A:SHA
+-}

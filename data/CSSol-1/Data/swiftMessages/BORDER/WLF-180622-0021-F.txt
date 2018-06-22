@@ -1,0 +1,14 @@
+{1:F01AXISINBB12600000000000}{2:I103DBSSINBBIBDXN}{4:
+:20:NU0QP39FRU
+:23B:CRED
+:32A:180622EUR7319,
+:50K:/7V8V6GSNV12KJOL
+Pejman Industrial Services Corporation
+42 Protaras Road, Protaras 5296
+Cyprus
+:59:/45ITNRV2NDP7L3H
+East Oil & Gas Production Company (EOGPC)
+Binhe Rd, Changbai Chaoxianzuzizhixian, Baishan Shi, Jilin Sheng
+Cyprus
+:71A:SHA
+-}

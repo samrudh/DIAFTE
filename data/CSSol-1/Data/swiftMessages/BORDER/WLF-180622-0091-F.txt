@@ -1,0 +1,14 @@
+{1:F01AMCIAU21COL00000000000}{2:I103DBSSSGSGIBDXN}{4:
+:20:2NB353HH9M
+:23B:CRED
+:32A:180622AUD2891,
+:50F:/ETAKN6QAPQJD9G2
+1/U Tin Sein
+2/Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+3/TR/Turkey
+:59F:/T124R61TJ57262L
+1/Mohammad Samer Abdelrahman Al-Khal
+1/iy
+3/TR/Turkey
+:71A:SHA
+-}

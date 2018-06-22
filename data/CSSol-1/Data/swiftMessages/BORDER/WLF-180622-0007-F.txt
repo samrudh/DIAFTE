@@ -1,0 +1,14 @@
+{1:F01CAHMATW1XXX00000000000}{2:I103DBSSTWTPIBDXN}{4:
+:20:P151P38G80
+:23B:CRED
+:32A:180622INR1571,
+:50F:/D59EM06AL7K0G82
+1/Benham Shahriyari Trading Company
+2/Edgecombe Hall Pond, London SW19 6SH
+3/UK/United Kingdom
+:59:/K53037VM3S4G880
+Razi Musavi
+Brest Central, Brest
+United Kingdom
+:71A:SHA
+-}

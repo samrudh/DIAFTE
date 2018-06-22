@@ -1,0 +1,14 @@
+{1:F01CONWATWWRES00000000000}{2:I103DBSSCNSHBJGXN}{4:
+:20:R8IHSQ522B
+:23B:CRED
+:32A:180622CNY6544,
+:50F:/0LVURBTI9OJAJ8O
+1/Hafiz Makhluf
+2/Qara Hotel, Gondar
+3/ET/Ethiopia
+:59:/T9FBKG3Q6EA8G7B
+Ministry of State Security Prisons Bureau
+Qara Hotel, Gondar
+Ethiopia
+:71A:SHA
+-}

@@ -1,0 +1,14 @@
+{1:F01DRESATWXTGT00000000000}{2:I103DBSSSGSGPCGXN}{4:
+:20:LUCKNSOH2G
+:23B:CRED
+:32A:180622SGD8263,
+:50F:/VBP0GBHNE6QPTII
+1/OTHMAN BIN MOHAMED
+2/Kap?köy Mahallesi, Saray Kap?köy Gümrük Kap?s? 22. Km Kap?köy S?n?r Kap?s?, 65830 Saray/Van
+3/TR/Turkey
+:59F:/P0O5SHAF7S1L46K
+1/Pejman Industrial Services Corpora
+1/tion
+3/TR/Turkey
+:71A:SHA
+-}

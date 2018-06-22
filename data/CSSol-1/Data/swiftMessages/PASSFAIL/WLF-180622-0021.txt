@@ -1,0 +1,14 @@
+{1:F01AIAGATWWXXX00000000000}{2:I103DBSSMY2AXXXXN}{4:
+:20:BG6B7UU1DM
+:23B:CRED
+:32A:180622MYR6217,
+:50K:/O59V4O8N5MG5EB5
+Pejman Industrial Services Corporation
+Weihburggasse 26, A-1010 VIENNA
+AUSTRIA
+:59:/UIEOPMC8SJ9D9NJ
+East Oil & Gas Production Company (EOGPC)
+Mailiao Township, Yunlin County
+TAIWAN
+:71A:SHA
+-}

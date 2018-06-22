@@ -1,0 +1,14 @@
+{1:F01ABDISDKHXXX00000000000}{2:I103DBSSGB2LXXXXN}{4:
+:20:QD4G67EDJ4
+:23B:CRED
+:32A:180622SGD5386,
+:50K:/1UK58NPD1K8UGM1
+PHANG WAH
+Unit 14, 3 Edgar Buildings, George Street
+United Kingdom
+:59F:/3CLH37UTRV6ON2P
+1/Naserin Vahid
+2/Unit 14, 3 Edgar Buildings, George Street
+3/UK/United Kingdom
+:71A:SHA
+-}

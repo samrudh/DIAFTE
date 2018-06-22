@@ -1,0 +1,14 @@
+{1:F01INDSCUHHXXX00000000000}{2:I103DBSSMY2AXXXXN}{4:
+:20:GANKJR6UF1
+:23B:CRED
+:32A:180622USD1793,
+:50K:/F0DIPHM0KL02H22
+Pejman Industrial Services Corporation
+2, rue de l\u2019Indépendance, 16000 ALGER
+ALGERIA
+:59:/O59V4O8N5MG5EB5
+Benham Shahriyari Trading Company
+No. 116, Lane 523, Section 3, Zhongzheng Road
+TAIWAN
+:71A:SHA
+-}

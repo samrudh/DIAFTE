@@ -1,0 +1,14 @@
+{1:F01ACLRAU2S20600000000000}{2:I103DBSSSGSGPCGXN}{4:
+:20:6ENRC91DGF
+:23B:CRED
+:32A:180622NZD2713,
+:50F:/T124R61TJ57262L
+1/Sang-Kuk So
+2/132 Portnalls Rd, Chipstead, Coulsdon
+3/UK/United Kingdom
+:59F:/EBM24RJ9T36F3D9
+1/Mohammad Sarafraz
+2/Houtzot HaMifratz, Haifa
+3/UK/United Kingdom
+:71A:SHA
+-}

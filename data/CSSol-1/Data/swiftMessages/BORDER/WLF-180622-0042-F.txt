@@ -1,0 +1,14 @@
+{1:F01CMSYSYDASW100000000000}{2:I103DBSSGB2LXXXXN}{4:
+:20:EVIK4S6OEN
+:23B:CRED
+:32A:180622NZD9115,
+:50F:/AID3DHL7FMB92C1
+1/Tayseer Qala Awwad
+2/Brest Central, Brest
+3/BL/Belarus
+:59:/THBMDQQ0UKBFJDI
+Tiva Sanat Group
+Ar?amów, Wola Korzeniecka, 37-740
+Belarus
+:71A:SHA
+-}

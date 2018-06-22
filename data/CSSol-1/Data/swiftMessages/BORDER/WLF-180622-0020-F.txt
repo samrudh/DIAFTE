@@ -1,0 +1,14 @@
+{1:F01CONWATWWRES00000000000}{2:I103DBSSGB2LXXXXN}{4:
+:20:MPL0A7MCLQ
+:23B:CRED
+:32A:180622CNY5114,
+:50F:/LU3B8CNKBA6D80N
+1/Pejman Industrial Services Corpora
+1/tion
+3/IL/Israel
+:59F:/7V8V6GSNV12KJOL
+1/Benham Shahriyari Trading Company
+2/Xihu Township	No. 3, Zhongzheng Road
+3/IL/Israel
+:71A:SHA
+-}
