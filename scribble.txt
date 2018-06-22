@@ -16,3 +16,14 @@ TAIWAN \
 
 def clean_beneficiary(x):
     return re.sub('[\n]+',' ',re.sub('/[X]*[\n]*','',x))
+
+
+/XXXXXXXXXXX
+
+ALLIANZ WORLDWIDE CARE SA DUBLIN
+
+ALLIANZ WORLDWIDE CARE SA DUBLI 15
+
+JOYCE WAY PARKWEST BUSINESS PARK NA
+
+NGOR ROAD DUBLIN 12
