@@ -12,3 +12,7 @@ No. 151, Lane 439, Section 4, Zhangshui Road \
 TAIWAN \
 :71A:SHA \
 -}
+
+
+def clean_beneficiary(x):
+    return re.sub('[\n]+',' ',re.sub('/[X]*[\n]*','',x))
