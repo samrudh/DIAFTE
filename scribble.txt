@@ -18,12 +18,46 @@ def clean_beneficiary(x):
     return re.sub('[\n]+',' ',re.sub('/[X]*[\n]*','',x))
 
 
-/XXXXXXXXXXX
-
-ALLIANZ WORLDWIDE CARE SA DUBLIN
-
-ALLIANZ WORLDWIDE CARE SA DUBLI 15
-
-JOYCE WAY PARKWEST BUSINESS PARK NA
-
+/XXXXXXXXXXX
+
+
+
+ALLIANZ WORLDWIDE CARE SA DUBLIN
+
+
+
+ALLIANZ WORLDWIDE CARE SA DUBLI 15
+
+
+
+JOYCE WAY PARKWEST BUSINESS PARK NA
+
+
+
 NGOR ROAD DUBLIN 12
+
+
+
+string = """/XXXXXXXXXXX 
+
+
+
+ALLIANZ WORLDWIDE CARE SA DUBLIN
+
+
+
+ALLIANZ WORLDWIDE CARE SA DUBLI 15
+
+
+
+JOYCE WAY PARKWEST BUSINESS PARK NA
+
+
+
+NGOR ROAD DUBLIN 12"""
+
+
+cities = ["DUBLIN", "Pune"]
+
+raw = string.split()
+print(set(raw).intersection(set(cities)))
