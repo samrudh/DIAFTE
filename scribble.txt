@@ -38,6 +38,8 @@ NGOR ROAD DUBLIN 12
 
 
 
+
+
 string = """/XXXXXXXXXXX 
 
 
@@ -72,3 +74,38 @@ def writePickle(var, filename):
 def readPickle(filename):
     with open(filename, 'rb') as f:  # Python 3: open(..., 'rb')
         return pickle.load(f)
+        
+        
+        
+ 
+def mat(st,ma):
+    raw = st.split()
+    ya=set(raw).intersection(set(ma))
+    if(bool(ya)):
+        geolocator = Nominatim()
+        location = geolocator.geocode(ya)
+        tup=(location.latitude,location.longitude)
+        print(location)
+        print(location.latitude)
+        print(location.longitude)
+        return tup,ya
+    ya='Singapore'
+    geolocator = Nominatim()
+    location = geolocator.geocode(ya)
+    tup=(location.latitude,location.longitude)
+    print(location)
+    print(location.latitude)
+    print(location.longitude)
+    return tup,ya
+
+
+
+def updateLatLong(df):
+    df=df[['ordering_customer','beneficiary']]
+    df=df.astype('str')
+    fromCity,fromTuple = mat(row['ordering_customer'],master)
+    toCity,toTuple=mat(row['beneficiary'],master)
+    return fromCity, toCity, fromTuple, toTuple
+
+plotGeoPlot(m,fromCity, toCity, fromTuple, toTuple)
+    
