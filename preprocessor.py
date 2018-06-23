@@ -1,7 +1,9 @@
+
+from __future__ import unicode_literals
 import pandas as pd
 import numpy as np
 import json
-from __future__ import unicode_literals
+
 
 import re
 from datetime import date
@@ -452,7 +454,8 @@ def get_updated_dataframe(df):
     return pd.concat([df,new_df],axis=1)
 
 def get_preprocessed_data(row):
-    row = row.strip().split(',')
+    # row = row.strip().split(',')
+    row = row[1:]
     if len(row) == 3:
         colnames = ['score','alert_date','Message Text']
     elif len(row) == 4:
