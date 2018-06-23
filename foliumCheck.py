@@ -16,7 +16,7 @@ def readPickle(filename):
     with open(filename, 'rb') as f:  # Python 3: open(..., 'rb')
         return pickle.load(f)
 
-master = readPickle('../DIAFTE-master/data/master.pkl')
+master = readPickle('data/master.pkl')
 master= master[0]
 
 def mat(st,ma):
@@ -39,7 +39,7 @@ def mat(st,ma):
     print(location.longitude)
     return tup,ya
 
-df=pd.read_csv('/Users/samrudhakelkar/Documents/hacks/DIAFTE-master/data/CSSol-2/whole_train.csv')
+df=pd.read_csv('data/CSSol-2/whole_train.csv')
 df=df[['ordering_customer','beneficiary']]
 df=df.astype('str')
 folium_map = folium.Map(location=[40.738, -73.98],
@@ -58,4 +58,4 @@ for index, row in df.iterrows():
 #     time.sleep(2)
     if index >5:
         break
-folium_map
+display(folium_map)
