@@ -16,8 +16,8 @@ import pandas as pd
 import preprocessor
 import geoloc
 
-
-# import time
+from PIL import Image
+import time
 # from cassandra.policies import DCAwareRoundRobinPolicy
 
 
@@ -67,11 +67,15 @@ while True:
 
 
             ## Plot
-            geoloc.update_graph_live(df)
-            # try:
-            #     geoloc.update_graph_live(df)
-            # except Exception as e:
-            #     print("Exception in visualization module:" + str(e))
+            # geoloc.update_graph_live(df)
+            try:
+                geoloc.update_graph_live(df)
+            except Exception as e:
+                print("Exception in visualization module:" + str(e))
+            else:
+                time.sleep(2)
+                im = Image.open("data/newimg.png")
+                im.show()
 
 
 

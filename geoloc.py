@@ -117,10 +117,11 @@ def plotGeoPlot(m, fromCity, toCity, fromTuple, toTuple):
     # time.sleep(5)
     print("plot graph")
     # plt.show()
-    img=mpimg.imread('data/pic.png')
-    imgplot = plt.imshow(img)
-    plt.show()
-    
+    # img=mpimg.imread('.png')
+    # imgplot = plt.imshow(img)
+    # plt.show()
+    plt.savefig("data/newimg.png")
+    plt.clf()
     return None
 
 
