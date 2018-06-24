@@ -121,7 +121,7 @@ def plotGeoPlot(m, fromCity, toCity, fromTuple, toTuple):
     # imgplot = plt.imshow(img)
     # plt.show()
     plt.savefig("data/newimg.png")
-    plt.clf()
+    # plt.clf()
     return None
 
 
