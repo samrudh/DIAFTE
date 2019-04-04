@@ -18,8 +18,8 @@ Key things we prototyped and envisioned:
 4. Visualization of swift messages by geo tags.
 
 Contributers:
-Aditya Kumar
-Samrudha Kelkar
-Sridhar
-Venkat Sai kiran
-Yasar Arafat
+1. Aditya Kumar
+2. Samrudha Kelkar
+3. Sridhar
+4. Venkat Sai kiran
+5. Yasar Arafat
